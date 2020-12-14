@@ -1,10 +1,10 @@
 
-const A187 = '『AMPIBI bot』'; 
-const instagram = 'https://bit.ly/2I4St2Y'; 
-const nomer = 'Wa.me/+6282334297175'; 
-const aktif = 'Tergantung kuota'; 
-const groupwhatsapp = 'https://bit.ly/2VJLtfn'; 
-const youtube = 'https://bit.ly/36Bp6ie'; 
+const A187 = '『VerBot』'; 
+const instagram = 'sementara rahasia dulu'; 
+const nomer = 'Wa.me/+6282136699278'; 
+const aktif = 'Tergantung kuota saya :)'; 
+const groupwhatsapp = 'ga punya grub'; 
+const youtube = 'ga da channel yutup'; 
 
 
 const qrcode = require("qrcode-terminal");
