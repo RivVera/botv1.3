@@ -117,124 +117,124 @@ conn.sendMessage(id ,`${gg} ${exists ? " exists " : " does not exist"} on WhatsA
 
 //ChatA187ID
 else if (text == 'assalamualaikum'){
-conn.sendMessage(id, ' _waalaikumsalam, _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#menu* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+conn.sendMessage(id, ' _waalaikumsalam, _Vera disini...ada yang bisa Vera bantu? Ketik *#menu* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
 }
 else if (text == 'salam'){
-conn.sendMessage(id, ' _Waalaikumsalam, Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#menu* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+conn.sendMessage(id, ' _waalaikumsalam, _Vera disini...ada yang bisa Vera bantu? Ketik *#menu* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
 }
 else if (text == 'asalamualaikum'){
-conn.sendMessage(id, ' _Waalaikumsalam, Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#menu* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+conn.sendMessage(id, ' _waalaikumsalam, _Vera disini...ada yang bisa Vera bantu? Ketik *#menu* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
 }
 else if (text == 'Assalamualaikum'){
-conn.sendMessage(id, ' _Waalaikumsalam, Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#menu* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+conn.sendMessage(id, ' _waalaikumsalam, _Vera disini...ada yang bisa Vera bantu? Ketik *#menu* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
 }
 else if (text == 'p'){
-conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#menu* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+conn.sendMessage(id, ' _Iyah, ada yang bisa Vera bantu kak? Ketik *#menu* untuk melihat fitur Verbot🙏_ ' ,MessageType.text);
 }
 else if (text == 'P'){
-conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#menu* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+conn.sendMessage(id, ' _Iyah, ada yang bisa Vera bantu kak? Ketik *#menu* untuk melihat fitur Verbot🙏_ ' ,MessageType.text);
 }
 else if (text == 'Halo'){
-conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#menu* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+conn.sendMessage(id, ' _Halo juga, ada yang bisa Vera bantu kak? Ketik *#menu* untuk melihat fitur Verbot🙏_ ' ,MessageType.text);
 }
 else if (text == 'Asu'){
 conn.sendMessage(id, 'Lu Asw' ,MessageType.text);
 }
 else if (text == '#owner'){
-conn.sendMessage(id, ' *Owner AFFIS JUNIANTO Wa.me/+6282334297175* ' ,MessageType.text);
+conn.sendMessage(id, ' *Owner Alda Angelis Rivera Wa.me/+6282136699273* ' ,MessageType.text);
 }
 else if (text == '#creator'){
-conn.sendMessage(id, ' *Creator AFFIS JUNIANTO Wa.me/+6282334297175* ' ,MessageType.text);
+conn.sendMessage(id, ' *Creator Alda Angelis Rivera Wa.me/+6282136699273* ' ,MessageType.text);
 }
 else if (text == 'Pagi'){
-conn.sendMessage(id, ' _Pagi juga, Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#menu* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+conn.sendMessage(id, ' _Pagi juga, Ada yang bisa Vera bantu? Ketik *#menu* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
 }
 else if (text == 'Siang'){
-conn.sendMessage(id, ' _Siang juga, Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#menu* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+conn.sendMessage(id, ' _Siang juga, Ada yang bisa Vera bantu? Ketik *#menu* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
 }
 else if (text == 'Sore'){
-conn.sendMessage(id, ' _Sore juga, Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#menu* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+conn.sendMessage(id, ' _Sore juga, Ada yang bisa Vera bantu? Ketik *#menu* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
 }
 else if (text == 'Malam'){
-conn.sendMessage(id, ' _Malam juga, Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#menu* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+conn.sendMessage(id, ' _Malam juga, Ada yang bisa Vera bantu? Ketik *#menu* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
 }
 else if (text == 'Ngentod'){
-conn.sendMessage(id, 'Pengin ngentod? babi looo' ,MessageType.text);
+conn.sendMessage(id, 'Ihhh kasar banget sama cewek ;)' ,MessageType.text);
 }
 else if (text == 'Anjing'){
-conn.sendMessage(id, 'Jangan toxic anjing,kntl,babi,monyet' ,MessageType.text);
+conn.sendMessage(id, 'Ihhh kasar banget sama cewek ;)' ,MessageType.text);
 }
 else if (text == 'Bacot'){
 conn.sendMessage(id, ' *lu bacot_-* ' ,MessageType.text);
 }
 else if (text == 'Test'){
-conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#menu* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+conn.sendMessage(id, ' _Ada yang bisa Vera bantu kak? Ketik *#menu* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
 }
 else if (text == 'Hai'){
-conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#menu* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+conn.sendMessage(id, ' _Hai juga, Ada yang bisa Vera bantu kak? Ketik *#menu* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
 }
 else if (text == 'Woi'){
-conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#menu* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+conn.sendMessage(id, ' _Gimana gimana? Ketik *#menu* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
 }
 else if (text == 'Eoy'){
-conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#menu* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+conn.sendMessage(id, ' _Gimana gimana? Ketik *#menu* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
 }
 else if (text == 'Hi'){
-conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#menu* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+conn.sendMessage(id, ' _Iyah Ada yang bisa saya bantu? Ketik *#menu* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
 }
 else if (text == 'Gan'){
-conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#menu* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+conn.sendMessage(id, ' _Iyah Ada yang bisa saya bantu? Ketik *#menu* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
 }
 else if (text == 'Sis'){
-conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#menu* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+conn.sendMessage(id, ' _Iyah Ada yang bisa saya bantu? Ketik *#menu* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
 }
 else if (text == 'Bro'){
-conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#menu* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+conn.sendMessage(id, ' _Iyah Ada yang bisa saya bantu? Ketik *#menu* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
 }
 else if (text == 'Min'){
-conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#menu* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+conn.sendMessage(id, ' _Iyah Ada yang bisa saya bantu? Ketik *#menu* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
 }
 else if (text == 'Sayang'){
-conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#menu* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+conn.sendMessage(id, ' _Ihhh sayang ಠ_ಠ dahlah terakhir kali disakiti cowok jadi males Ama cowok_ ' ,MessageType.text);
 }
 else if (text == 'I love u'){
 conn.sendMessage(id, ' _love you too😻_ ' ,MessageType.text);
 }
 else if (text == 'Mas'){
-conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#menu* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+conn.sendMessage(id, ' _Mas gundulmu_- Ketik *#menu* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
 }
 else if (text == 'Mba'){
-conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#menu* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+conn.sendMessage(id, ' _Dalem_- Ketik *#menu* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
 }
 else if (text == 'Bre'){
-conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#menu* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+conn.sendMessage(id, ' _Iyah Ada yang bisa saya bantu? Ketik *#menu* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
 }
 else if (text == 'Cuy'){
-conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#menu* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+conn.sendMessage(id, ' _Iyah Ada yang bisa saya bantu? Ketik *#menu* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
 }
 else if (text == 'Euy'){
-conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#menu* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+conn.sendMessage(id, ' _Iyah Ada yang bisa saya bantu? Ketik *#menu* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
 }
 else if (text == 'makasi'){
-conn.sendMessage(id, ' _Sama sama, semoga harimu menyenangkan :)_ ' ,MessageType.text);
+conn.sendMessage(id, ' _Sama sama kak, semoga harimu menyenangkan :)_ ' ,MessageType.text);
 }
 else if (text == 'Makasi'){
-conn.sendMessage(id, ' _Sama sama, semoga harimu menyenangkan :)_ ' ,MessageType.text);
+conn.sendMessage(id, ' _Sama sama kak, semoga harimu menyenangkan :)_ ' ,MessageType.text);
 }
 else if (text == 'makasih'){
-conn.sendMessage(id, ' _Sama sama, semoga harimu menyenangkan :)_ ' ,MessageType.text);
+conn.sendMessage(id, ' _Sama sama kak, semoga harimu menyenangkan :)_ ' ,MessageType.text);
 }
 else if (text == 'Makasih'){
-conn.sendMessage(id, ' _Sama sama, semoga harimu menyenangkan :)_ ' ,MessageType.text);
+conn.sendMessage(id, ' _Sama sama kak, semoga harimu menyenangkan :)_ ' ,MessageType.text);
 }
 else if (text == 'thank'){
-conn.sendMessage(id, ' _Sama sama, semoga harimu menyenangkan :)_ ' ,MessageType.text);
+conn.sendMessage(id, ' _Sama sama kak, semoga harimu menyenangkan :)_ ' ,MessageType.text);
 }
 else if (text == 'Thank'){
-conn.sendMessage(id, ' _Sama sama, semoga harimu menyenangkan :)_ ' ,MessageType.text);
+conn.sendMessage(id, ' _Sama sama kak, semoga harimu menyenangkan :)_ ' ,MessageType.text);
 }
 else if (text == 'thanks'){
-conn.sendMessage(id, ' _Sama sama, semoga harimu menyenangkan :)_ ' ,MessageType.text);
+conn.sendMessage(id, ' _Sama sama kak, semoga harimu menyenangkan :)_ ' ,MessageType.text);
 }
 else if (text == 'Thanks'){
 conn.sendMessage(id, ' _Sama sama, semoga harimu menyenangkan :)_ ' ,MessageType.text);
